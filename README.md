@@ -64,7 +64,7 @@ pip install tensorflow numpy pandas scikit-learn opencv-python matplotlib
 
 ```python
 # Load the Jupyter notebook
-jupyter notebook 23302_RaviTejaKondetiAssignment3_github.ipynb
+jupyter notebook vgg16_object_detection.ipynb
 
 # Or run directly in Google Colab
 # The notebook includes:
@@ -113,7 +113,7 @@ The model achieves multi-task learning by optimizing both:
 
 ```
 .
-├── 23302_RaviTejaKondetiAssignment3_github.ipynb  # Main implementation
+├── vgg16_object_detection.ipynb  # Main implementation
 ├── README.md                                       # This file
 └── LICENSE                                         # MIT License
 ```
